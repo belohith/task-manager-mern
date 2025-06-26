@@ -4,8 +4,8 @@ A full-stack task management web app built with MongoDB, Express, React, and Nod
 
 ## 🌐 Live Demo
 
-- Frontend: [https://your-frontend.netlify.app](https://your-frontend.netlify.app)
-- Backend API: [https://your-backend.onrender.com](https://your-backend.onrender.com)
+- Frontend: [https://task-manager-mern-belohith.netlify.app/](https://task-manager-mern-belohith.netlify.app/)
+- Backend API: [https://task-manager-mern-yte7.onrender.com](https://task-manager-mern-yte7.onrender.com)
 
 ## 🚀 Features
 
